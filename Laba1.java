@@ -62,7 +62,7 @@ public class Laba1
         public Skovoroda(String style)
         {
             this.style = style;
-            this.proizvod = "dps";
+            this.proizvod = "ggs";
             this.price = 43;
         }
         public void Name()
